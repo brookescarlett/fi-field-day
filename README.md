@@ -46,7 +46,7 @@ September 1st
 - **Programming:** 
   * Server: Daniel - ChromeBoi - Vicky
   * Nexus: Steven B. - Terrance
-  * Browser Clients: Dick
+  * Browser Clients: Dick - Brooke
 - **Operations:** 
   * TODO fill out
 - **Instructors:**
